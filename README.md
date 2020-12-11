@@ -13,6 +13,6 @@ There were a total of 37,475 reviews that fit the criteria of being helpful. Fro
 
 - The percentagge of vine reviews that were 5 star is 48.9% vs the percentage of non-vine 5 star reviews which was 39% as seen below.
 
-
+<img width="1122" alt="Screen Shot 2020-12-10 at 8 16 37 PM" src="https://user-images.githubusercontent.com/69806770/101848962-ba932900-3b24-11eb-8d21-b0ab42385418.png">
 
 ## Summary
